@@ -1,0 +1,8 @@
+.herro {
+  background-image: url('./../assets/herro.png');
+  background-size: cover;       /* cubre todo el contenedor */
+  background-position: center;  /* centra la imagen */
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
+}
